@@ -1,2 +1,2 @@
 # MAL-Nyaa-Auto-Download
-This is a python script that automatically open torrent magnet links in nyaa.si of your unseen episodes in the watching list in MyAnimeList
+This is a python script that opens magnet links of your unseen episodes in nyaa.si, using the Jikan API to check your MyAnimeList watching list with the newest updates in the Nyaa site
